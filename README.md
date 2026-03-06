@@ -26,4 +26,12 @@ Este é um sistema de CRUD (Create, Read, Update, Delete) para gerenciar usuári
 
 - Modal da confirmação da exclusão da conta do usuário: <img width="1914" height="956" alt="image" src="https://github.com/user-attachments/assets/77e52506-5f8e-4091-b985-dc191c0cf3d6" />
 
+- Exemplos responsivos:
+
+<img width="229" height="651" alt="image" src="https://github.com/user-attachments/assets/484bdc2f-2816-4efe-a621-ef71ac90d69b" /> <img width="237" height="693" alt="image" src="https://github.com/user-attachments/assets/b26c64a2-44a0-4ef8-824f-bc487c8b1bc3" /> <img width="232" height="732" alt="image" src="https://github.com/user-attachments/assets/dd3d4afc-e659-42fb-8d5c-74db7d406425" /> <img width="320" height="570" alt="image" src="https://github.com/user-attachments/assets/ea66e2c8-9e95-4bcb-8d9f-c5f0d3098177" />
+
+
+
+
+
 
