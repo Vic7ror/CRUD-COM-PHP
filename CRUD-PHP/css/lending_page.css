@@ -1,0 +1,40 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-image: url(../img/fundos/fundo1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: center;
+  font-family: "Montserrat", sans-serif;
+}
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5em;
+}
+#card {
+  width: 65vh;
+  border-radius: 5px;
+  padding: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+#card h1 {
+  margin: 5px;
+  font-style: italic;
+}
+#card p {
+  margin: 5px;
+}
+.col a {
+  color: white;
+  padding: 5px;
+  background-color: black;
+}
+.col a:hover {
+  background-color: #e1e1e1;
+  color: black;
+  border: 1px solid black;
+  transition: 0.3s;
+}

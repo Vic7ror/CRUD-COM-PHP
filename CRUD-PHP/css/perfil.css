@@ -1,0 +1,44 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    padding: 0;
+    margin: 0;
+    background-image: url(../img/fundos/fundo1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: center;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#card{
+    width: 65vh;
+    text-align: center;
+    background-color: #fff;
+    margin: 5em;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#card-header .col:last-child a{
+    background-color: black;
+    padding: 5px;
+    color: white;
+}#card-header .col:last-child a:hover{
+    background-color: #e1e1e1;
+    color: black;
+    border: 1px solid black;
+    transition: 0.3s;
+}.action{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+.action:hover{
+    background-color: #e1e1e1;
+    color: black;
+    border: 1px solid black;
+    transition: 0.3s;
+}
+    

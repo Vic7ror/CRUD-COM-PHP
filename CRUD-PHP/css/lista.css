@@ -1,0 +1,27 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-image: url(../img/fundos/fundo1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: center;
+  font-family: "Montserrat", sans-serif;
+}
+#card{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    width: 80%;
+}
+#button{
+    color: white;
+    background-color: black;
+    padding: 8px;
+}#button:hover{
+    background-color: #e1e1e1;
+    color: black;
+    border: 1px solid black;
+    transition: 0.3s;
+}
